@@ -63,6 +63,14 @@ public class MadLibs {
         System.out.println("Until" + " " +  input5 + " " + input2 + " "+ input3 + " " + "is caught, Lord" + " " + input1 + " "  + "will not stop at hunting down this traitorous vermin. ");
         System.out.println("And to keep everyone safe and out of the" + " " + input9 + ", the entire cult has decreed that all ");
         System.out.println("citizens must stay inside of their humble abodes until the suspect has been captured. ");
+
+        //Anya
+        System.out.println("Therefore, Lord " + input1 + " has decreed that the punishment for the guilty will be one of the following:");
+        System.out.println("    1. Trampled to death by " + input12);
+        System.out.println("    2. Crushed by sacks of " + input11);
+        System.out.println("    3. Defenestrated out the top floor of " + input9);
+        System.out.println("    4. Turned into shredded beef and fed to the " + input12);
+        System.out.println("    5. Smited down by the one and only Lord " + input1);
         
     }
 }
