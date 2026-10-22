@@ -40,6 +40,11 @@ public class MadLibs {
         System.out.print("Enter a number. ");
         int input10 = scanner.nextInt();
 
+        System.out.print("The horrendous crime was commited at " + input6 + " in " + input7 + ".");
+        System.out.print(" This crime led to the horrendous death of a whopping TWO, wait no, TWO AND A HALF, wait no, " + input13 + " people, including King " + input8 + " Timmy, and landed " + input10 + " people in the " + input9 +".");
+        System.out.print("We are seeking any and all information on the accused's " + input5 + " " + input2 + " " + input3 + " whereabouts. ");
+        System.out.print("We will pay highly for all informations, and we can pay handsomely, such as " + input10 + " ounces of " + input11 + " or a singular cookie.");
+
         scanner.close(); 
     }
 }
