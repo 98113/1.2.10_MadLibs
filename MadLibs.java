@@ -1,5 +1,6 @@
 import java.util.Scanner; 
 
+//Bhavya
 public class MadLibs {
         public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -42,6 +43,15 @@ public class MadLibs {
 
         scanner.close();
 
+        //Arnesh
+        System.out.println("*trumpets*");
+        System.out.println("Hear ye, hear ye, for I have a public declaration from Lord " + input1 + "!");
+        String crime = "We are searching for the most ";
+        crime += input5 + " ";
+        crime += input2 + " ";
+        crime += input3 + " ";
+        crime += "the IV for committing the abhorrent crime of stealing the last cookie from the cookie jar.";
+        System.out.println(crime);
         
         //Dylan
         System.out.print("The horrendous crime was commited at " + input6 + " in " + input7 + ".");
