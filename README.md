@@ -57,5 +57,4 @@ Therefore, Lord **(1)** has decreed that the punishment for the guilty will be o
 ---
 
 ## Screenshot of Functionality
-
-![Screenshot](1.2.10_madlibs_ss_of_functionality)
+![image](https://github.com/bhavyad09/1.2.10_MadLibs/blob/main/1.2.10_madlibs_ss_of_functionality.png)
